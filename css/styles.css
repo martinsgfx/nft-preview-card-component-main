@@ -8,7 +8,7 @@ body {
 
 .grid-background {
     display: flex;
-    
+    justify-content: center;
     
 }
 
